@@ -1,0 +1,8 @@
+.bg-smk-lead {
+    background-image: url("../images/homeBg.png"); 
+    background-color: green; 
+    height: 102vh; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}

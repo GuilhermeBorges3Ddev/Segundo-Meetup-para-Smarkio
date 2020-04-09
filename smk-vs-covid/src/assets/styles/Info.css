@@ -1,0 +1,8 @@
+.bg-smk-info {
+    background-image: url("../images/infoBg.png"); 
+    background-color: green; 
+    height: 102vh; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}

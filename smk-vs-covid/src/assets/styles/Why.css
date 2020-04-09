@@ -1,0 +1,8 @@
+.bg-smk-why {
+    background-image: url("../images/whyBg.png"); 
+    background-color: green; 
+    height: 102vh; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
