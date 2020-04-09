@@ -8,8 +8,8 @@ export default function ButtonLinks() {
             <Button className="bg-danger text-white btn-spaced">
                 <Link to="/porque">Porque?</Link>
             </Button>
-            <Button className="bg-danger text-white btn-spaced"> 
-                <Link to="/prevencao">Prevenção</Link>
+            <Button className="bg-danger text-white btn-spaced" onClick={function() {alert("VISITE: www.oms.com")}}> 
+               Prevenção
             </Button>
             <Button className="bg-danger text-white btn-spaced">
                 <Link to="/informacoes">Mais informações</Link>

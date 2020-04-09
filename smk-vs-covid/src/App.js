@@ -6,7 +6,6 @@ import './assets/styles/App.css';
 import Ops from './pages/Ops';
 import Home from './pages/Home';
 import Why from './pages/Why';
-import Prevent from './pages/Prevent';
 import Info from './pages/Info';
 
 function App() {
@@ -15,7 +14,6 @@ function App() {
       <Switch>
         <Route path="/" component={Home} exact />
         <Route path="/porque" component={Why} />
-        <Route path="/prevencao" component={Prevent} />
         <Route path="/informacoes" component={Info} />
         <Route component={Ops} />
       </Switch>
