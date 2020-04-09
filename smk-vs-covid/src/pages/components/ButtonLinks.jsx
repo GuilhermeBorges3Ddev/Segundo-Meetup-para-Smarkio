@@ -12,7 +12,7 @@ export default function ButtonLinks() {
                 <Link to="/prevencao">Prevenção</Link>
             </Button>
             <Button className="bg-danger text-white btn-spaced">
-                <Link to="/info">Mais informações</Link>
+                <Link to="/informacoes">Mais informações</Link>
             </Button>
         </ButtonGroup>
     )
