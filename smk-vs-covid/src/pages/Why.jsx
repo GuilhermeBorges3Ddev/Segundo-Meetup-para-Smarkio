@@ -1,9 +1,8 @@
-import React from 'react'
+import React from 'react';
+import "../assets/styles/Why.css";
 
 export default function Why() {
     return (
-        <div>
-            aiai
-        </div>
+        <div className="bg-smk-why" />
     )
 }
